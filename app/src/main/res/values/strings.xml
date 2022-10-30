@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CardStore</string>
+    <string name="your_cards">Your cards</string>
+    <string name="sort">Sort</string>
+    <string name="sign_up">Sign up here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="delete_card">Delete card</string>
+    <string name="error">Error</string>
+    <string name="required_fields">Please enter required fields</string>
+    <string name="ok">ok</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="card_expired">Card is expired</string>
+    <string name="show_qr">Press, show QR</string>
+</resources>
